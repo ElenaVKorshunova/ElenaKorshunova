@@ -37,10 +37,8 @@ Windows, IOS, Android.
 
 ### 🤝 Курсы и тренинги:
 
-  <div id="badges">
-    <a href="https://www.udemy.com/course/qaengineer/learn/lecture/28956598#announcements" target="_green">
-      <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" width="80" height="80" alt="UDEMY" />
-    </a>
+[![UDEMY Badge](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svglogoColor=white)](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg/)
+
 
 ---
 
