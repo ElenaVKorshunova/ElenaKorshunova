@@ -24,7 +24,7 @@
 
 ### 🤝 Навыки
 Платформы: 
-Windows, IOS, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="devtools" alt="devtools" width="40" height="40"/>
+Windows, IOS, Android.
 
 Браузеры: Chrome, Firefox, Opera.
 
