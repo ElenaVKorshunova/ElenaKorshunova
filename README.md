@@ -37,8 +37,10 @@ Windows, IOS, Android.
 
 ### 🤝 Курсы и тренинги:
 
-[![UDEMY Badge](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg)](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg/)
-
+ <div id="badges">
+    <a href="https://www.udemy.com/gift/qaengineer/" target="_blank">
+      <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" width="80" height="80" alt="UDEMY" />
+    </a>
 
 ---
 
