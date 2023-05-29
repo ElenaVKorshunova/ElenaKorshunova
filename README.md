@@ -37,7 +37,7 @@ Windows, IOS, Android.
 
 ### 🤝 Курсы и тренинги:
 
-[![UDEMY Badge](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svglogoColor=white)](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg/)
+[![UDEMY Badge](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg)](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg/)
 
 
 ---
