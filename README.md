@@ -29,16 +29,9 @@ Windows, IOS, Android.
 Браузеры: Chrome, Firefox, Opera.
 
 Базы данных: 
-<https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg title="oracle" alt="oracle" width="40" height="40"/>
 
-MS SQL Server
-
-Инструменты: Jira, Postman, DevTools. 
-
-
-
-
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@ElenaKorshunova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-korshunova-3b7096267/) [![Gmail Badge](https://img.imgsmail.ru/static.promo/logo/logo_white.svg)](mailto:korshunova_e_v@mail.ru)
 
 ---
 
@@ -48,7 +41,6 @@ MS SQL Server
     <a href="https://www.udemy.com/course/qaengineer/learn/lecture/28956598#announcements" target="_green">
       <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" width="80" height="80" alt="linkedin" />
     </a>
-
 
 ---
 
@@ -86,15 +78,6 @@ MS SQL Server
 
 ---
 
-### 💾 Работа с данными:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-</div>
-
----
-
 ### ✏️ Работа с кодом:
 
 <div>
@@ -106,4 +89,6 @@ MS SQL Server
 
 ---
 
+- 📫 Как связаться со мной: 
+[![LinkedIn Badge](https://img.shields.io/badge/-@ElenaKorshunova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-korshunova-3b7096267/) [![Gmail Badge](https://img.imgsmail.ru/static.promo/logo/logo_white.svg)](mailto:korshunova_e_v@mail.ru)
 
