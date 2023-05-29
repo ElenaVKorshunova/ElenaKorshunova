@@ -18,29 +18,29 @@
 
 
 Английский - Intermediate. 
----
+-----
 
 
 
 ### 🤝 Навыки
-Платформы: 
+
+---
+
+Базы данных: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="60" height="60"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg title="oracle" alt="oracle" width="60" height="60"/>
+
+Платформы:
 Windows, IOS, Android.
 
 Браузеры: Chrome, Firefox, Opera.
-
-Базы данных: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg title="oracle" alt="oracle" width="40" height="40"/>
 
 
 ---
 
 ### 🤝 Курсы и тренинги:
 
- <div id="badges">
-    <a href="https://www.udemy.com/gift/qaengineer/" target="_blank">
-      <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg" width="80" height="80" alt="UDEMY" />
-    </a>
+ [![Gmail Badge](https://lh3.googleusercontent.com/S0OsJcKqYUdgxCBa63imp3FOBGqlDqY3JJXCqVr1bSepyHKkUfy2DFv16tFNdPeJNPpZfxN_wqpVkbuXj45KbFJO2v7H1_sMnktNUqM)](https://www.udemy.com/course/qaengineer/) 
 
 ---
 
@@ -87,8 +87,10 @@ Windows, IOS, Android.
   
 </div>
 
----
+-------
 
-- 📫 Как связаться со мной: 
-[![LinkedIn Badge](https://img.shields.io/badge/-@ElenaKorshunova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-korshunova-3b7096267/) [![Gmail Badge](https://img.imgsmail.ru/static.promo/logo/logo_white.svg)](mailto:korshunova_e_v@mail.ru)
 
+📫 Как со мной связаться: 
+
+ [![Gmail Badge](https://img.imgsmail.ru/static.promo/logo/logo_white.svg)](mailto:korshunova_e_v@mail.ru)         
+ [![LinkedIn Badge](https://img.shields.io/badge/-@ElenaKorshunova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-korshunova-3b7096267/)
